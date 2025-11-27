@@ -107,7 +107,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        DESIGNED &amp; DEVELOPED BY <b>SRIMEGANATHAN S</b>
+        DESIGNED &amp; DEVELOPED BY <b>SUDHARSANAN U</b>
     </footer>
 
     <script>
